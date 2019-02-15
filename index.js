@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const usr = new Discord.ClientUser()
-const TOKEN = 'NTQ1MDcwMjE3NDI0OTI4NzY5.D0UUxw.OuYVW9Gr5fxIM4aMqz9ipJe3KQI';
+const TOKEN = '';
 const request = require('request');
 const cheerio = require('cheerio');
 
