@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const usr = new Discord.ClientUser()
-const TOKEN = 'NTQ1MDcwMjE3NDI0OTI4NzY5.D0UUxw.OuYVW9Gr5fxIM4aMqz9ipJe3KQI';
+const TOKEN = '';
 const request = require('request');
 const cheerio = require('cheerio');
 const aliasFilter = "&source=users&sort_by=last_visit&filters%5Bgeo_country%5D=&filters%5Btier%5D=&fields%5Balias%5D=1&fields%5Bunique_ids%5D=1";
