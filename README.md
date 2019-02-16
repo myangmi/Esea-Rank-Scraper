@@ -10,7 +10,7 @@ Future implementation will consist of:
 
 How to use:
 
-format: !<command> <username>
+format: !(command) (username)
 All commands are lowercase
 All usernames are case sensitive
 
