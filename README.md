@@ -1,5 +1,5 @@
 # Esea-Rank-Scraper
-Beginning stages of a program that will scrape ESEA for a player's rank using a discord bot to read commands from users.
+Due to ESEA's update to their website this bot no longer works. I am currently trying to figure out a work around. ESEA blocks non-browsers access via cloudflare preventing the scraper from accessing information.
 
 Future implementation will consist of:
 
